@@ -1,0 +1,6 @@
+años=int(input('¿Cual es  su edad?'))
+if años >=0 and años <=18:
+    print("Eres menor de edad")
+elif años >=18 and años<=1000:
+  print("Usted es mayor de edad")
+
