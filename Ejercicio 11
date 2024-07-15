@@ -1,0 +1,6 @@
+contraseña=12345678
+respuesta= input("Escriba su contraseña")
+if respuesta=="12345":
+     print("La contraseña es correcta")
+elif respuesta:
+     print("La contraseña es incorrecta")
