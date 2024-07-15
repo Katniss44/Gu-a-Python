@@ -1,0 +1,6 @@
+n=int(input('Escriba un numero'))
+Npar=(n%2)
+if Npar==0:
+ print("El numero es par")
+elif n:
+   print("El numero es inpar")
