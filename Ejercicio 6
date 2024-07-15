@@ -1,0 +1,3 @@
+n=int(input("Escriba un número entero positivo"))
+operacion=n*(n+1)//2
+print("La suma de los enteros de 1 a ",n,"es" ,operacion)
