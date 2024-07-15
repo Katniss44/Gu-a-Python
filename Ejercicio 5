@@ -1,0 +1,4 @@
+ht= float(input("¿Cuantas horas trabaja?"))
+ph= float(input("¿Cúanto le pagan por hora?"))
+sueldo= ht*ph
+print ( f"Deberian pagarle {sueldo}")
