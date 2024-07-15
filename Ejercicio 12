@@ -1,0 +1,7 @@
+primero= int(input('Escriba cualquier numero'))
+segundo= int(input('Escriba un numero distinto al anterior'))
+division= (primero/segundo)
+if primero==0:
+  print("ERRROR")
+elif division:
+ print(division)
