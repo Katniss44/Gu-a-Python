@@ -1,0 +1,2 @@
+v1= "Guia Python"
+print(v1)
