@@ -1,0 +1,4 @@
+p=input("Escriba cualquier palabra")
+  print (palabra)
+for t in range(10):
+print (p)
